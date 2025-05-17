@@ -64,6 +64,10 @@ a {
     color: #fff;
 }
 
+.hero-section {
+    background: #2e2f42;
+}
+
 button {
     cursor: pointer;
 }
@@ -74,6 +78,7 @@ button {
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        background: #4d5ae5;
 }
 
 .features-subtitle {
@@ -90,6 +95,13 @@ button {
         letter-spacing: 0.02em;
 }
 
+.team-section{
+    background: #f4f4fd;
+}
+
+.team-list {
+    background: #fff;
+}
 .team-title {
     font-weight: 700;
         font-size: 36px;
@@ -136,6 +148,10 @@ font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+}
+
+.page-footer{
+    background: #2e2f42;
 }
 
 .footer-text {
